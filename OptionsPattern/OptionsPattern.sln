@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionsPatternAPI", "OptionsPatternAPI\OptionsPatternAPI.csproj", "{E6483E62-C059-491E-8DCB-3ECC0E22BC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6483E62-C059-491E-8DCB-3ECC0E22BC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6483E62-C059-491E-8DCB-3ECC0E22BC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6483E62-C059-491E-8DCB-3ECC0E22BC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6483E62-C059-491E-8DCB-3ECC0E22BC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4085B647-2E0D-4237-A0C4-B9EB3BF4C088}
+	EndGlobalSection
+EndGlobal

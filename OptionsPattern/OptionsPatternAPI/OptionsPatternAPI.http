@@ -1,0 +1,6 @@
+@OptionsPatternAPI_HostAddress = http://localhost:5218
+
+GET {{OptionsPatternAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
